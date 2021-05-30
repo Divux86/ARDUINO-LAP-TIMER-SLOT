@@ -1,8 +1,3 @@
-/*Beaver's Hobby Channel Easy Arduino Project #2: Super simple lap timer
-What you need:
-1. Arduino of your choice
-2. IR Obstacle Avoidance sensor (FC-51)
-*/
 double i = 0;
 double a = millis();
 double c ;
