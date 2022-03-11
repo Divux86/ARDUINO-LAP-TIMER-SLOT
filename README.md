@@ -1,5 +1,6 @@
 # ARDUINO-LAP-TIMER-SLOT
 Lap timer created for arduino, you need:
+
 -> 1x Arduino 
 
 -> 1x serial lcd Screen with i2c module
