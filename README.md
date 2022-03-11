@@ -12,4 +12,4 @@ Lap timer created for arduino, you need:
 
 -> as many wires as you want
 
-For contruction, you will need to figure out the pins by yourself.
+For construction, you will need to figure out the pins by yourself.
